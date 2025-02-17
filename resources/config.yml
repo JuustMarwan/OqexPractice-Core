@@ -1,0 +1,10 @@
+database:
+  type: sqlite # MySQL Recommended
+  sqlite:
+    file: 'oqex-practice.sqlite' # SQLite file to write data to
+  mysql:
+    host: localhost # MYSql Server Address
+    username: root # MySql Server Username
+    password: '' # MySql Server Password
+    schema: '' # MySql Server ID
+  worker-limit: 1

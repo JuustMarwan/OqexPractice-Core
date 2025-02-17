@@ -1,0 +1,11 @@
+name: OqexPractice
+author: xSuper
+main: xSuper\OqexPractice\OqexPractice 
+version: 0.6
+api: 5.0.0
+depend:
+  - CustomSizedInvMenu
+permissions:
+  oqex:
+    default: true
+    description: fuck pocketmine multi player server
