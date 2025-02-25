@@ -1,0 +1,137 @@
+maps:
+  Duel1:
+    spawns:
+      1: [50, 50, 50]
+      2: [50, 50, 51]
+    name: "Duel1Name"
+    builder: "Duel1Builder"
+    season: 1
+  Duel2:
+    spawns:
+      1: [50, 50, 50]
+      2: [50, 50, 51]
+    name: "Duel2Name"
+    builder: "Duel2Builder"
+    season: 1
+  Duel3:
+    spawns:
+      1: [50, 50, 50]
+      2: [50, 50, 51]
+    name: "Duel3Name"
+    builder: "Duel3Builder"
+    season: 1
+  Duel4:
+    spawns:
+      1: [50, 50, 50]
+      2: [50, 50, 51]
+    name: "Duel4Name"
+    builder: "Duel4Builder"
+    season: 1
+  Duel5:
+    spawns:
+      1: [50, 50, 50]
+      2: [50, 50, 51]
+    name: "Duel5Name"
+    builder: "Duel5Builder"
+    season: 1
+  # Repeat for Duel6 to Duel18
+  SumoArena4:
+    spawns:
+      1: [50, 50, 50]
+      2: [50, 50, 51]
+    name: "SumoArena4Name"
+    builder: "SumoArena4Builder"
+    season: 1
+  SumoArena5:
+    spawns:
+      1: [50, 50, 50]
+      2: [50, 50, 51]
+    name: "SumoArena5Name"
+    builder: "SumoArena5Builder"
+    season: 1
+  SumoArena6:
+    spawns:
+      1: [50, 50, 50]
+      2: [50, 50, 51]
+    name: "SumoArena6Name"
+    builder: "SumoArena6Builder"
+    season: 1
+  # Repeat for SumoArena7 to SumoArena13
+  TheBridge4:
+    spawns:
+      1: [50, 50, 50]
+      2: [50, 50, 51]
+      red: 1
+      p1: [0, 0, 0]
+      p2: [0, 0, 6]
+    name: "TheBridge4Name"
+    builder: "TheBridge4Builder"
+    season: 1
+  TheBridge5:
+    spawns:
+      1: [50, 50, 50]
+      2: [50, 50, 51]
+      red: 1
+      p1: [0, 0, 0]
+      p2: [0, 0, 6]
+    name: "TheBridge5Name"
+    builder: "TheBridge5Builder"
+    season: 1
+  TheBridge6:
+    spawns:
+      1: [50, 50, 50]
+      2: [50, 50, 51]
+      red: 1
+      p1: [0, 0, 0]
+      p2: [0, 0, 6]
+    name: "TheBridge6Name"
+    builder: "TheBridge6Builder"
+    season: 1
+  # Repeat for TheBridge7 to TheBridge10
+  SG1:
+    spawns:
+      1: [50, 50, 50]
+      2: [50, 50, 51]
+      low: 1
+      mid: 2
+      high: 1
+      middle: [0, 0, 6]
+    name: "SG1Name"
+    builder: "SG1Builder"
+    season: 1
+  SG2:
+    spawns:
+      1: [50, 50, 50]
+      2: [50, 50, 51]
+      low: 1
+      mid: 2
+      high: 1
+      middle: [0, 0, 6]
+    name: "SG2Name"
+    builder: "SG2Builder"
+    season: 1
+  SumoEvent:
+    spawns:
+      1: [50, 50, 50]
+      2: [50, 50, 51]
+      event: [50, 50, 52]
+    name: "SumoEventName"
+    builder: "SumoEventBuilder"
+    season: 1
+  JuggernautEvent:
+    spawns:
+      1: [50, 50, 50]
+      2: [50, 50, 51]
+      event: [50, 50, 52]
+    name: "JuggernautEventName"
+    builder: "JuggernautEventBuilder"
+    season: 1
+  BracketEvent:
+    spawns:
+      1: [50, 50, 50]
+      2: [50, 50, 51]
+      event: [50, 50, 52]
+    name: "BracketEventName"
+    builder: "BracketEventBuilder"
+    season: 1
+    
